@@ -1,1 +1,10 @@
-{"updated": "아직 자동 수집 전", "jobs": []}
+{
+  "updated": "자동 수집 실행 전",
+  "mode": "official-only",
+  "sources": [
+    {"company": "대웅제약", "status": "unsupported", "note": "첫 자동 확인 대기"},
+    {"company": "GC녹십자", "status": "unsupported", "note": "첫 자동 확인 대기"}
+  ],
+  "jobs": [],
+  "note": "개별 공식 공고를 확인한 경우에만 표시"
+}
