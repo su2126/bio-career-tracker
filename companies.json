@@ -182,11 +182,32 @@
     ],
     "url": "https://www.skcareers.com/",
     "recruit_url": "https://www.skcareers.com/",
-    "recruit_link_status": "공식 SK Careers 채용 포털 · 기업 필터 필요",
+    "recruit_link_status": "SK Careers 공식 채용 포털 · 기업명 검색 (일부 상세공고는 마감 후 비공개)",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": true,
-    "evidence_status": "공식 공고·전형 확인",
-    "qualification": [],
+    "evidence_status": "2026 하반기 QC·QA·생산 학사 신입 공고 확인 · 어학 최소 점수 미확인",
+    "qualification": [
+      [
+        "2026 하반기 QC·QA·원액/완제생산 신입 학력",
+        "학사 이상 기졸업자 또는 2027년 2월 졸업예정자",
+        "2026-10-08~10-21 · 공식 채용 웹플라이어의 대학 게시본 및 공고 재게시본"
+      ],
+      [
+        "2026 하반기 모집 직무",
+        "원액/완제생산(DS/DP), 품질보증(QA), 품질관리(QC)",
+        "2026-10-08~10-21 · 신입 정규직 모집"
+      ],
+      [
+        "2026 하반기 어학 점수",
+        "공개 확인 자료에서 OPIc·TOEIC Speaking 최저 점수 확인되지 않음",
+        "2026 하반기 공고 · 미확인, 면제나 불필요를 의미하지 않음"
+      ],
+      [
+        "2026 QC System 계약직 주의",
+        "전문대졸 대상이며 4년제 학사 이상은 지원 불가로 명시된 별도 공고 존재",
+        "SK Careers 공식 공고 R261294 · 학사 신입 공고와 구분"
+      ]
+    ],
     "steps": [
       "서류전형",
       "SKCT",
@@ -196,19 +217,34 @@
     ],
     "sources": [
       [
-        "SK바이오사이언스 공식 공고·전형 사례",
-        "https://www.skcareers.com/Recruit/Detail/R250068",
-        "2025년 공고 식별자 · 2026-10-27 확인"
+        "2026 하반기 신입 채용 웹플라이어 (대학 게시본)",
+        "https://cbe.kaist.ac.kr/boards/view/job_openings/2194",
+        "2026-10-13 · KAIST 게시판, 공식 홍보 이미지 재게시"
+      ],
+      [
+        "2026 하반기 QC 신입 공고 보존본",
+        "https://inthiswork.com/archives/404484",
+        "2026-10-08~10-21 · 제3자 공고 재게시"
+      ],
+      [
+        "SK Careers QC System 공식 공고 (학사 지원 불가 사례)",
+        "https://www.skcareers.com/Recruit/Detail/R261294",
+        "2026년 · SK Careers 공식 원문"
+      ],
+      [
+        "SK Careers 공식 채용 포털",
+        "https://www.skcareers.com/",
+        "상시 · 공식 포털"
       ]
     ],
-    "process_note": "SK Careers 공식 공고 R250068에 표시된 절차. 공고 및 직무별 변경 가능",
+    "process_note": "2026 하반기 신입 모집 안내: 서류 → SKCT → 면접 → 채용검진 → 입사. 직무별 변동 가능",
     "audit": {
       "portal": "공식 채용 링크 등록",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
-      "process": "공식 전형 근거 있음",
-      "archive": "공고/자료 출처 있음",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "degree": "2026 신입 공고별 근거 있음",
+      "language": "최저 점수 미확인",
+      "process": "2026 신입 전형 근거 있음",
+      "archive": "2026 공고 및 대학 게시 이미지 있음",
+      "reviewed": "2026-10-27 · 공식 홍보 이미지 재게시 및 공고 보존본 대조"
     }
   },
   {
@@ -1105,17 +1141,63 @@
     ],
     "url": "https://careers.lg.com/",
     "recruit_url": "https://careers.lg.com/jobnotice/",
-    "recruit_link_status": "LG그룹 공식 채용공고 목록 · 회사 필터 필요",
+    "recruit_link_status": "공식 채용공고 목록 확인",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": true,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "evidence_status": "2024 신입 QC·QA 모집 이력 확인 · 2025 QA 경력 공고와 구분",
+    "qualification": [
+      [
+        "2024 9월 생명과학사업본부 신입 모집",
+        "QC·QA·마케팅 직무 신입 모집 기록 확인; 세부 학력·어학 기준 미확인",
+        "2024-08-30~09-23 · 대학 취업게시판 공식 공고 안내 보존"
+      ],
+      [
+        "2025 오송 품질관리약사 공고",
+        "학사 이상 및 약사면허 필수, 경력직 · 일반 생명과학 학사 신입 공고가 아님",
+        "2025-02-13~02-24 · 제3자 보존본"
+      ],
+      [
+        "2024 9월 생명과학사업본부 신입 모집",
+        "QC·QA·마케팅 직무 신입 모집 기록 확인; 세부 학력·어학 기준 미확인",
+        "2024-08-30~09-23 · 대학 취업게시판 공식 공고 안내 보존"
+      ],
+      [
+        "2025 오송 품질관리약사 공고",
+        "학사 이상 및 약사면허 필수, 경력직 · 일반 생명과학 학사 신입 공고가 아님",
+        "2025-02-13~02-24 · 제3자 보존본"
+      ]
+    ],
     "steps": [],
     "sources": [
       [
         "LG Careers 공식 공고 목록 (개별 회사 필터 필요)",
         "https://careers.lg.com/jobnotice/",
         "2026-10-27 공식 채용 사이트 확인 · 개별 공고 조건 아님"
+      ],
+      [
+        "LG Careers 공식 채용공고 목록",
+        "https://careers.lg.com/jobnotice/",
+        "2026-10-27 · LG화학 기업 필터 필요, 개별 자격 미검증"
+      ],
+      [
+        "2024 LG화학 신입 공고 대학 게시판(QC·QA 포함)",
+        "https://www.anyang.ac.kr/main/communication/notice.do?article.offset=3155&articleLimit=15&articleNo=33623&mode=view",
+        "2024-09-02 · 안양대학교 취업지원단 게시 · 세부 조건 미포함"
+      ],
+      [
+        "2025 LG화학 오송 QA 경력·약사 공고",
+        "https://www.bzpp.co.kr/biz/businessDetailView/BR250213A00345",
+        "2025-02-13 · 채용 플랫폼 보존본 · 경력/약사면허 필수"
+      ],
+      [
+        "2024 LG화학 신입 공고 대학 게시판(QC·QA 포함)",
+        "https://www.anyang.ac.kr/main/communication/notice.do?article.offset=3155&articleLimit=15&articleNo=33623&mode=view",
+        "2024-09-02 · 안양대학교 취업지원단 게시 · 세부 조건 미포함"
+      ],
+      [
+        "2025 LG화학 오송 QA 경력·약사 공고",
+        "https://www.bzpp.co.kr/biz/businessDetailView/BR250213A00345",
+        "2025-02-13 · 채용 플랫폼 보존본 · 경력/약사면허 필수"
       ]
     ],
     "process_note": "기업·모집 회차별 절차 검증 전",
@@ -1124,8 +1206,8 @@
       "degree": "추가 검증 필요",
       "language": "추가 검증 필요",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2024 신입 QC/QA 모집 이력, 2025 경력 공고 있음",
+      "reviewed": "2026-10-27 · 대학 게시판 및 공고 보존본 확인"
     }
   },
   {
@@ -1138,22 +1220,49 @@
       "안전"
     ],
     "url": "https://www.lottechem.com/",
-    "recruit_url": "https://recruit.lotte.co.kr/apply/announcement",
-    "recruit_link_status": "공식 그룹 채용공고 목록 · 계열사 선택",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
+    "recruit_url": "https://www.lottechem.com/ko/recruit/employment/list.do",
+    "recruit_link_status": "공식 채용공고 목록 확인",
+    "source_note": "2025년 신입 모집 이력은 공식 확인. 직무별 학력·어학 최소 기준은 아직 미확인.",
     "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "qualification": [
+      [
+        "2025년 9월 첨단소재사업 신입 일반전형",
+        "2025.09.03~09.16 모집 확인 · 상세 학사·전공·어학 기준은 이 공고 본문에서 확인되지 않음",
+        "2025년 · 롯데케미칼 공식 공고"
+      ],
+      [
+        "2025년 9월 HQ 신입 일반전형",
+        "2025.09.03~09.16 모집 확인 · 상세 직무별 자격 조건 추가 확인 필요",
+        "2025년 · 롯데케미칼 공식 공고"
+      ]
+    ],
     "steps": [],
-    "sources": [],
+    "sources": [
+      [
+        "롯데케미칼 공식 채용공고 목록",
+        "https://www.lottechem.com/ko/recruit/employment/list.do",
+        "2026-10-27 · 공식 홈페이지"
+      ],
+      [
+        "2025년 9월 첨단소재 신입 일반전형",
+        "https://www.lottechem.com/ko/recruit/employment/216/view.do",
+        "2025.09.03~09.16 · 공식 공고"
+      ],
+      [
+        "2025년 9월 HQ 신입 일반전형",
+        "https://www.lottechem.com/ko/recruit/employment/215/view.do",
+        "2025.09.03~09.16 · 공식 공고"
+      ]
+    ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
       "portal": "공식 채용 링크 등록",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "degree": "2025년 직무별 공고 확인",
+      "language": "2025년 공고 기준 확인 또는 미기재",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025년 공식 공고 확인",
+      "reviewed": "2026-10-27 · 공식 웹페이지 자료 확인"
     }
   },
   {
@@ -1166,22 +1275,61 @@
       "안전"
     ],
     "url": "https://www.kkpc.com/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
+    "recruit_url": "https://recruit.kkpc.com/",
+    "recruit_link_status": "공식 채용공고 목록 확인",
+    "source_note": "2025년 공식 공고 기준. 품질·생산은 화학공학 전공 명시, 연구개발은 석사 조건이므로 생명과학 학사 지원 가능으로 단정하지 않습니다.",
+    "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
-    "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전",
+    "qualification": [
+      [
+        "2025 하반기 품질 직무 학력·전공",
+        "학사 · 화학공학 전공 지정. 생명과학 단독 전공 지원 가능 여부는 공고상 확인되지 않음",
+        "2025 하반기 · 금호석유화학그룹 공식 대졸 신입 공고"
+      ],
+      [
+        "2025 하반기 생산 직무 학력·전공",
+        "학사 · 화학공학 전공 지정",
+        "2025 하반기 · 공식 공고"
+      ],
+      [
+        "2025 하반기 연구개발 직무 학력",
+        "고무·수지 등 연구개발 직무는 화학·화공·고분자 계열 석사 명시",
+        "2025 하반기 · 공식 공고"
+      ],
+      [
+        "2025 하반기 공통 어학",
+        "공인영어 어학성적 소유 필수 · 공고 원문에 최소 점수 미기재",
+        "2025 하반기 · 공식 공고"
+      ],
+      [
+        "2025 하반기 품질 우대",
+        "품질경영기사·화학분석기사 우대",
+        "2025 하반기 · 공식 공고"
+      ]
+    ],
+    "steps": [
+      "서류전형",
+      "인적성검사",
+      "1차 면접",
+      "2차 면접",
+      "채용검진",
+      "최종합격"
+    ],
+    "sources": [
+      [
+        "금호석유화학그룹 2025 하반기 대졸 신입 공고",
+        "https://recruit.kkpc.com/main/recruit/27_4/menu2_6view.jsp?drno=2715",
+        "2025년 공식 채용 시스템 · 과거 공고"
+      ]
+    ],
+    "process_note": "2025년 공고 사례 기준 · 모집 회차별 변동 가능",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "portal": "공식 채용 링크 등록",
+      "degree": "2025년 직무별 공고 확인",
+      "language": "2025년 공고 기준 확인 또는 미기재",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025년 공식 공고 확인",
+      "reviewed": "2026-10-27 · 공식 웹페이지 자료 확인"
     }
   },
   {
@@ -1194,22 +1342,49 @@
       "분석기기"
     ],
     "url": "https://www.hanwhasolutions.com/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
+    "recruit_url": "https://www.hanwhain.com/portal/apply/recruit",
+    "recruit_link_status": "공식 채용공고 목록 확인",
+    "source_note": "2025년 케미칼 생산관리 직무는 화학·화공·고분자 계열 학사를 지정. 생명과학 전공 단독 지원 가능 여부는 확인되지 않았습니다.",
+    "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "qualification": [
+      [
+        "2025 하반기 케미칼 생산관리 학력·전공",
+        "화학·화학공학·고분자공학 계열 학사 이상",
+        "2025 하반기 · 공식 신입 채용 안내"
+      ],
+      [
+        "2025 하반기 케미칼 생산관리 우대",
+        "유기화학·열역학·화공양론·단위조작 등 관련 과목, 화공·안전 자격증 및 공정모사 경험 우대",
+        "2025 하반기 · 공식 채용 안내"
+      ],
+      [
+        "2025 하반기 케미칼 생산관리 어학",
+        "공개된 해당 직무 표에 최소 OPIc/TOEIC Speaking 점수 미기재",
+        "2025 하반기 · 공식 채용 안내"
+      ],
+      [
+        "2025 하반기 큐셀 연구개발 구분",
+        "일부 태양전지 R&D 직무는 석사 이상. 케미칼 생산관리 학사 조건과 혼동 금지",
+        "2025 하반기 · 공식 채용 안내"
+      ]
+    ],
     "steps": [],
-    "sources": [],
+    "sources": [
+      [
+        "한화솔루션 2025 하반기 신입 채용 공식 안내",
+        "https://nhrsite.com/hanwhasolution25/index.html",
+        "2025.09.15~10.10 · 케미칼/큐셀 채용 캠페인"
+      ]
+    ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "portal": "공식 채용 링크 등록",
+      "degree": "2025년 직무별 공고 확인",
+      "language": "2025년 공고 기준 확인 또는 미기재",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025년 공식 공고 확인",
+      "reviewed": "2026-10-27 · 공식 웹페이지 자료 확인"
     }
   },
   {
@@ -1222,22 +1397,39 @@
       "안전"
     ],
     "url": "https://www.skc.kr/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "recruit_url": "https://www.skc.co.kr/kor/career/careers.do",
+    "recruit_link_status": "SKC 공식 채용공고 목록 · 계열사 및 직무 확인 필요",
+    "source_note": "2025년 SKC 그룹 신입 공고 보존본에 SK넥실리스 품질·생산·연구개발 직무가 포함됨. SKC 본사 공통 학력·어학 조건을 의미하지 않으며, 개별 직무의 세부 지원 자격은 미검증.",
+    "verified_portal": true,
+    "evidence_status": "공식 채용 목록 확인 · 2025 신입 모집 이력 보존본 확인",
+    "qualification": [
+      [
+        "2025 SK넥실리스 연구개발(수원) 학력",
+        "학사 이상으로 표시된 신입 모집 직무 사례",
+        "2025년 SKC 그룹 신입 공고 · 제3자 보존본 · 계열사 SK넥실리스"
+      ]
+    ],
     "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전",
+    "sources": [
+      [
+        "SKC 공식 채용공고 목록",
+        "https://www.skc.co.kr/kor/career/careers.do",
+        "회사 공식 사이트 · 2026-10-27 확인"
+      ],
+      [
+        "2025 SKC 그룹 신입 모집 이력",
+        "https://jasoseol.com/recruit/96848",
+        "2025-02-24~03-16 · 제3자 공고 보존본 · SK넥실리스 포함"
+      ]
+    ],
+    "process_note": "2025 공고의 정확한 전형 단계는 공식 원문으로 추가 검증 필요",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
       "language": "추가 검증 필요",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "2026-10-27 · 공식 포털 및 2025 그룹 신입 공고 보존본"
     }
   },
   {
@@ -1250,22 +1442,51 @@
       "품질관리"
     ],
     "url": "https://www.kolonindustries.com/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
+    "recruit_url": "https://dream.kolon.com/",
+    "recruit_link_status": "공식 채용 페이지 확인",
+    "source_note": "2026 제조부문 인턴 공고 기준. R&D는 학사 지원 대상이 아니며, 개별 직무 전공은 추가 확인 필요.",
+    "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
-    "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전",
+    "qualification": [
+      [
+        "2026 제조부문 채용전환형 인턴 공통 학력",
+        "4년제 대학 졸업(예정)자. R&D는 석사 또는 박사 요구",
+        "2026.10.06~10.19 · 코오롱인더스트리 공고 보존본"
+      ],
+      [
+        "2026 제조부문 채용전환형 인턴 어학",
+        "최근 2년 이내 유효한 공인영어성적 보유 요구. 최소 점수는 해당 자료에 미기재",
+        "2026.10.06~10.19 · 공고 보존본"
+      ],
+      [
+        "2026 인턴 이후 정규직 전환",
+        "2027년 3월 정규직 근무 가능자 · 인턴십 2027년 1~2월",
+        "2026.10.06~10.19 · 공고 보존본"
+      ]
+    ],
+    "steps": [
+      "서류심사",
+      "AI 역량검사",
+      "면접",
+      "채용검진",
+      "인턴십",
+      "최종합격"
+    ],
+    "sources": [
+      [
+        "코오롱인더스트리 2026 제조부문 채용전환형 인턴",
+        "https://office.invione.com/jobs/recruitment/open/detail/181037",
+        "2026.10.06~10.19 · 채용 공고 보존본"
+      ]
+    ],
+    "process_note": "표기된 채용 회차 기준 · 변경 가능",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
-      "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "portal": "공식 채용 링크 확인",
+      "degree": "공고별 학력·전공 근거 확보",
+      "language": "공고별 명시/미기재 구분",
+      "process": "채용 절차 확인",
+      "archive": "2025~2026 공고 근거 확보",
+      "reviewed": "2026-10-27 · 공식/공고 보존 자료 대조"
     }
   },
   {
@@ -1278,22 +1499,44 @@
       "분석법"
     ],
     "url": "https://www.apgroup.com/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
+    "recruit_url": "https://careers.apgroup.com/search?locale=ko_KR",
+    "recruit_link_status": "공식 채용공고 목록 직행",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "verified_portal": true,
+    "evidence_status": "2026 신입 R&D 공고 공식 목록 확인, 세부 자격 미확인",
+    "qualification": [
+      [
+        "2026 하반기 소재연구 신입 모집 사례",
+        "2026년 9월 20일 마감 · 용인 근무. 학사·어학 조건은 개별 공고 원문 확인 필요",
+        "2026-09 · 회사 공식 채용 목록"
+      ],
+      [
+        "2026 하반기 헤어앤뷰티제품개발 신입 모집 사례",
+        "2026년 9월 20일 마감 · 용인 근무. 학사·어학 조건은 개별 공고 원문 확인 필요",
+        "2026-09 · 회사 공식 채용 목록"
+      ]
+    ],
     "steps": [],
-    "sources": [],
+    "sources": [
+      [
+        "2026 하반기 신입 공고 목록 (회사 공식)",
+        "https://careers.apgroup.com/search/",
+        "2026-09 · 회사 공식 채용 목록"
+      ],
+      [
+        "현재 채용공고 (회사 공식)",
+        "https://careers.apgroup.com/search?locale=ko_KR",
+        "회사 공식 채용 목록 · 수시 변동"
+      ]
+    ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "portal": "공식 채용공고 목록 확인",
+      "degree": "학사 요건 미확인",
+      "language": "어학 요건 미확인",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2026 신입 연구개발 모집 사례 있음",
+      "reviewed": "2026-10-27 · 2025~2026 공고 보존본 또는 공식 채용 목록 대조"
     }
   },
   {
@@ -1307,27 +1550,68 @@
     ],
     "url": "https://careers.lg.com/",
     "recruit_url": "https://careers.lg.com/jobnotice/",
-    "recruit_link_status": "LG그룹 공식 채용공고 목록 · 회사 필터 필요",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
+    "recruit_link_status": "LG Careers 공식 채용공고 목록 · LG생활건강 회사 필터 필요",
+    "source_note": "LG Careers 공식 채용 목록에서 LG생활건강을 회사명으로 필터링해야 합니다. LG전자 등 다른 계열사 공고의 학사·어학 조건을 LG생활건강에 적용하지 않습니다.",
     "verified_portal": true,
-    "evidence_status": "공식 그룹 채용 포털 확인 · 상세 자격 미검증",
-    "qualification": [],
+    "evidence_status": "2025 하반기 R&D 신입 석사 이상 사례 확인 · 학사 QC/QA 조건 미확인",
+    "qualification": [
+      [
+        "2025 하반기 R&D 신입 학력",
+        "석사 이상(졸업예정자 가능) · 학사만으로는 해당 공고 지원 불가",
+        "2025-09-01~09-15 · Skin Longevity 연구 · 채용 플랫폼 보존본"
+      ],
+      [
+        "2025 하반기 R&D 어학",
+        "해당 보존본에서 최소 공인어학 점수 확인되지 않음",
+        "2025-09 · 미확인, 점수 추정 금지"
+      ],
+      [
+        "2025 하반기 R&D 신입 학력",
+        "석사 이상(졸업예정자 가능) · 학사만으로는 해당 공고 지원 불가",
+        "2025-09-01~09-15 · Skin Longevity 연구 · 채용 플랫폼 보존본"
+      ],
+      [
+        "2025 하반기 R&D 어학",
+        "해당 보존본에서 최소 공인어학 점수 확인되지 않음",
+        "2025-09 · 미확인, 점수 추정 금지"
+      ]
+    ],
     "steps": [],
     "sources": [
       [
-        "LG Careers 공식 공고 목록 (개별 회사 필터 필요)",
+        "LG Careers 공식 채용공고 목록",
         "https://careers.lg.com/jobnotice/",
-        "2026-10-27 공식 채용 사이트 확인 · 개별 공고 조건 아님"
+        "2026-10-27 공식 그룹 포털 확인 · LG생활건강 회사 필터 필요"
+      ],
+      [
+        "2025 하반기 Skin Longevity 연구 신입 공고",
+        "https://www.jobkorea.co.kr/Recruit/GI_Read/47612947",
+        "2025-09-01~09-15 · 잡코리아 보존본 · 석사 이상"
+      ],
+      [
+        "2025 하반기 R&D 신입 공고(학력 재확인)",
+        "https://www.jinhakpro.com/recruit/31616",
+        "2025-09-01~09-15 · 진학프로 보존본 · 석사 이상"
+      ],
+      [
+        "2025 하반기 Skin Longevity 연구 신입 공고",
+        "https://www.jobkorea.co.kr/Recruit/GI_Read/47612947",
+        "2025-09-01~09-15 · 잡코리아 보존본 · 석사 이상"
+      ],
+      [
+        "2025 하반기 R&D 신입 공고(학력 재확인)",
+        "https://www.jinhakpro.com/recruit/31616",
+        "2025-09-01~09-15 · 진학프로 보존본 · 석사 이상"
       ]
     ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
       "portal": "공식 채용 링크 등록",
-      "degree": "추가 검증 필요",
+      "degree": "2025 R&D 공고 근거 있음(석사 이상; 학사 대상 아님)",
       "language": "추가 검증 필요",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025 R&D 보존 공고 있음",
+      "reviewed": "2026-10-27 · 2025 공고 보존본 재확인"
     }
   },
   {
@@ -1344,18 +1628,35 @@
     "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": false,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "evidence_status": "2025·2026 신입 모집 사례 확인, 세부 지원 조건 미확인",
+    "qualification": [
+      [
+        "2026 하반기 품질본부 신입 모집 사례",
+        "2026년 10월 6일 마감으로 기록된 품질본부 신입 공고. 학사·어학 조건은 원문 추가 확인 필요",
+        "2026 하반기 · 링커리어 공고 목록"
+      ],
+      [
+        "2025 하반기 그룹 신입 공채 모집 사례",
+        "2025년 9월 29일 마감으로 기록된 그룹 신입 공채. QC/QA 세부 조건은 미확인",
+        "2025 하반기 · 링커리어 공고 목록"
+      ]
+    ],
     "steps": [],
-    "sources": [],
+    "sources": [
+      [
+        "2025~2026 코스맥스 채용공고 목록",
+        "https://linkareer.com/company-info/541/recruit",
+        "제3자 채용공고 목록 · 개별 원문 확인 필요"
+      ]
+    ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
       "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "degree": "학사 요건 미확인",
+      "language": "어학 요건 미확인",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025·2026 모집 사례 있음",
+      "reviewed": "2026-10-27 · 2025~2026 공고 보존본 또는 공식 채용 목록 대조"
     }
   },
   {
@@ -1372,18 +1673,55 @@
     "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": false,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "evidence_status": "2025 대졸 QC/QA 신입 학력·전공·영어 우대 확인",
+    "qualification": [
+      [
+        "2025 하반기 품질관리/보증 대졸 신입 학력",
+        "4년제 대졸 이상, 졸업예정자 가능",
+        "2025 하반기 · 신입 · 사람인 공고 보존본"
+      ],
+      [
+        "2025 하반기 품질관리/보증 전공",
+        "화학·화학공학·산업공학",
+        "2025 하반기 · 신입 · 사람인 공고 보존본"
+      ],
+      [
+        "2025 하반기 품질관리/보증 영어",
+        "영어 가능자 우대. OPIc·토익스피킹 최소 점수 미기재",
+        "2025 하반기 · 신입 · 사람인 공고 보존본"
+      ],
+      [
+        "2025 하반기 품질관리/보증 우대",
+        "품질경영기사, 관련 인턴 경험 등 우대",
+        "2025 하반기 · 신입 · 사람인 공고 보존본"
+      ],
+      [
+        "2026년 9월 부천 품질 전임직 학력",
+        "전문학사 이하로 기재된 별도 신입 직무. 대졸 공채와 혼동 금지",
+        "2026년 9월 · 대학 취업 게시판 보존본"
+      ]
+    ],
     "steps": [],
-    "sources": [],
+    "sources": [
+      [
+        "2025 하반기 한국콜마 품질관리/보증 대졸신입",
+        "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=51896478",
+        "2025 · 채용 플랫폼 보존본"
+      ],
+      [
+        "2026년 9월 부천 품질 전임직",
+        "https://job.kku.ac.kr/educe/recruit/view/94984",
+        "2026-09 · 대학 취업 게시판"
+      ]
+    ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
       "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "degree": "2025 대졸 신입 공고 근거 있음",
+      "language": "2025 공고: 영어 우대, 점수 미기재",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025·2026 모집 사례 있음",
+      "reviewed": "2026-10-27 · 2025~2026 공고 보존본 또는 공식 채용 목록 대조"
     }
   },
   {
@@ -1396,13 +1734,36 @@
       "품질관리"
     ],
     "url": "https://recruit.cj.net/",
-    "recruit_url": "https://recruit.cj.net/recruit/ko/main/main/main.fo",
-    "recruit_link_status": "CJ그룹 공식 채용공고 목록 · CJ제일제당 선택",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
+    "recruit_url": "https://cjcj-careers.com/",
+    "recruit_link_status": "공식 채용 페이지 확인",
+    "source_note": "일반 신입 전형은 공식 확인. 마케팅 특별전형 학력 조건을 QC/QA 요건으로 확대 적용하지 않습니다.",
     "verified_portal": true,
     "evidence_status": "공식 채용 사이트·공고 사례 확인",
-    "qualification": [],
-    "steps": [],
+    "qualification": [
+      [
+        "일반 신입 전형",
+        "지원서 → AI역량검사 → TEST(CFT/CAT) → 팀리드 면접 → 경영리더 면접 → 입사",
+        "CJ제일제당 공식 채용 프로세스"
+      ],
+      [
+        "Future Marketer League 지원 학력",
+        "학사 4학년 이상 재학생 및 기졸업자 대상. QC/QA 공통 요건이 아님",
+        "2026년 채용 안내 · 별도 마케팅 전형"
+      ],
+      [
+        "일반 신입 QC/QA 어학·전공",
+        "공식 전형 안내 페이지에서 개별 직무별 학사·어학 최소 기준 미확인",
+        "2026-10-27 · 개별 모집 공고 확인 필요"
+      ]
+    ],
+    "steps": [
+      "지원서 접수",
+      "AI역량검사",
+      "TEST(CFT/CAT)",
+      "1차 면접",
+      "2차 면접",
+      "입사"
+    ],
     "sources": [
       [
         "CJ그룹 공식 채용공고 목록",
@@ -1418,16 +1779,21 @@
         "2026년 10월 경력 채용 사례: Data Analytics Engineer",
         "https://recruit.cj.net/recruit/ko/recruit/recruit/detail.fo?zz_jo_num=J20261019041065",
         "2026-10-19 ~ 11-09 · 경력"
+      ],
+      [
+        "CJ제일제당 공식 신입 채용 프로세스",
+        "https://cjcj-careers.com/process",
+        "공식 채용 홈페이지"
       ]
     ],
-    "process_note": "전형 단계는 개별 공고 확인 필요",
+    "process_note": "표기된 채용 회차 기준 · 변경 가능",
     "audit": {
-      "portal": "공식 채용 링크 등록",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
-      "process": "추가 검증 필요",
-      "archive": "공고/자료 출처 있음",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "portal": "공식 채용 링크 확인",
+      "degree": "공고별 학력·전공 근거 확보",
+      "language": "공고별 명시/미기재 구분",
+      "process": "채용 절차 확인",
+      "archive": "공식 채용 프로세스 확인 · 직무별 공고 추가 필요",
+      "reviewed": "2026-10-27 · 공식/공고 보존 자료 대조"
     }
   },
   {
@@ -1440,22 +1806,51 @@
       "식품안전"
     ],
     "url": "https://www.daesang.com/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
+    "recruit_url": "https://career.daesang.com/ko",
+    "recruit_link_status": "공식 채용 페이지 확인",
+    "source_note": "2026 품질관리 신입 공식 공고. 식품 관련 전공 명시, 생명과학 전공 인정 여부는 미확인.",
+    "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
-    "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전",
+    "qualification": [
+      [
+        "2026 경영지원부문 품질관리 신입 학력",
+        "학사 · 기졸업자 또는 2026년 8월 졸업예정자",
+        "2026.05.25 마감 · 대상 공식 공고"
+      ],
+      [
+        "2026 경영지원부문 품질관리 전공",
+        "식품 관련 전공 명시 · 생명과학 단독 전공 인정 여부는 별도 확인 필요",
+        "2026.05.25 마감 · 대상 공식 공고"
+      ],
+      [
+        "2026 경영지원부문 품질관리 우대",
+        "식품 관련 자격증·운전면허 우대. 공인어학 최소 점수는 공고에 미기재",
+        "2026.05.25 마감 · 대상 공식 공고"
+      ]
+    ],
+    "steps": [
+      "지원서 접수",
+      "역량검사",
+      "서류전형",
+      "면접전형",
+      "채용검진",
+      "최종합격"
+    ],
+    "sources": [
+      [
+        "대상 2026 품질관리 신입 공식 공고",
+        "https://career.daesang.com/ko/o/215913",
+        "2026년 · 공식 채용공고"
+      ]
+    ],
+    "process_note": "표기된 채용 회차 기준 · 변경 가능",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
-      "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "portal": "공식 채용 링크 확인",
+      "degree": "공고별 학력·전공 근거 확보",
+      "language": "공고별 명시/미기재 구분",
+      "process": "채용 절차 확인",
+      "archive": "2025~2026 공고 근거 확보",
+      "reviewed": "2026-10-27 · 공식/공고 보존 자료 대조"
     }
   },
   {
@@ -1470,20 +1865,52 @@
     "url": "https://www.samyangcorp.com/",
     "recruit_url": null,
     "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
+    "source_note": "2025년 3월 일반 대졸신입 OPIc IL/TOEIC Speaking 110점 기준. Junior Career에는 적용되지 않습니다.",
     "verified_portal": false,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
+    "qualification": [
+      [
+        "2025년 3월 대졸신입 공통 학력",
+        "학사 학위 이상 보유자 중 2025년 5월 입사 가능자",
+        "2025.03.18 마감 · 대학 게시 공고 보존본"
+      ],
+      [
+        "2025년 3월 대졸신입 공통 어학",
+        "OPIc IL 이상 또는 TOEIC Speaking 110점 이상(2년 이내 유효 성적). 영어권 해외대 예외",
+        "2025.03.18 마감 · 대학 게시 공고 보존본"
+      ],
+      [
+        "2025년 3월 삼양사 품질관리 전공",
+        "식품공학·식품영양학 등 관련 전공. 식품기사·품질경영기사 우대",
+        "2025.03.18 마감 · 대학 게시 공고 보존본"
+      ],
+      [
+        "2025년 3월 Junior Career 별도 기준",
+        "관련 정규직 경력 1~3년 미만, 영어성적 없이 지원 가능 · 일반 대졸신입과 구분",
+        "2025.03.18 마감 · 대학 게시 공고 보존본"
+      ]
+    ],
     "steps": [],
-    "sources": [],
+    "sources": [
+      [
+        "2025 삼양그룹 신입 공고 보존본(숭실대)",
+        "https://gtrade.ssu.ac.kr/%ED%95%99%EB%B6%80%EC%95%8C%EB%A6%BC/m3sub3/?slug=9582",
+        "2025.03 · 대학 취업 게시판"
+      ],
+      [
+        "2025 삼양그룹 모집 직무 보존본(이화여대)",
+        "https://myr.ewha.ac.kr/cese/alram/notice.do?articleNo=744170&mode=view",
+        "2025.03 · 대학 게시판"
+      ]
+    ],
     "process_note": "기업·모집 회차별 절차 검증 전",
     "audit": {
       "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
+      "degree": "공고별 학력·전공 근거 확보",
+      "language": "공고별 명시/미기재 구분",
       "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "archive": "2025~2026 공고 근거 확보",
+      "reviewed": "2026-10-27 · 공식/공고 보존 자료 대조"
     }
   },
   {
@@ -1496,22 +1923,65 @@
       "HACCP"
     ],
     "url": "https://www.otoki.com/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
-    "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
+    "recruit_url": "https://www.otoki.com/overview/notice.asp",
+    "recruit_link_status": "공식 채용 페이지 확인",
+    "source_note": "2026년 하반기 공고는 10월 15일 마감. 품질관리의 생명공학 우대 전공과 생명과학 전공은 동일하다고 단정하지 않습니다.",
+    "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
-    "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전",
+    "qualification": [
+      [
+        "2026 하반기 대졸신입 공통 학력",
+        "4년제 대학(대학원) 2027년 2월 졸업예정자 또는 기졸업자",
+        "2026.10.07~10.15 · 오뚜기 공식 공고"
+      ],
+      [
+        "2026 하반기 품질관리 우대 전공",
+        "식품공학·산업공학·화학공학·생명공학. 생명과학과는 별도 확인 필요",
+        "2026.10.07~10.15 · 오뚜기 공식 공고"
+      ],
+      [
+        "2026 하반기 품질관리 우대 역량",
+        "식품·품질 자격증, 품질경영시스템 교육, 데이터 분석 및 AI 활용",
+        "2026.10.07~10.15 · 오뚜기 공식 공고"
+      ],
+      [
+        "2026 하반기 공통 어학",
+        "공고상 영어성적 제출 규정이 있으나 직무별 최소 점수는 이 요약에서 미확인. 공식 원문 확인 필요",
+        "2026.10.07~10.15 · 오뚜기 공식 공고"
+      ],
+      [
+        "2025 하반기 채용 사례",
+        "QC·QA·식품안전·R&D 포함 대졸신입 공채 · 2025.10.13~10.20",
+        "2025.10.14 · 오뚜기 공식 보도자료"
+      ]
+    ],
+    "steps": [
+      "서류전형",
+      "인성·직무능력검사",
+      "1차 실무면접·심층인성검사",
+      "2차 임원면접",
+      "최종합격"
+    ],
+    "sources": [
+      [
+        "오뚜기 2026 하반기 대졸신입 공식 공고",
+        "https://www.otoki.com/about/recruitment-detail?idx=64",
+        "2026.10.07~10.15 · 공식 공고"
+      ],
+      [
+        "오뚜기 2025 하반기 채용 공식 보도자료",
+        "https://www.otoki.com/pr/news-detail?idx=856",
+        "2025.10.14 · 공식 보도자료"
+      ]
+    ],
+    "process_note": "표기된 채용 회차 기준 · 변경 가능",
     "audit": {
-      "portal": "직행 링크 미검증",
-      "degree": "추가 검증 필요",
-      "language": "추가 검증 필요",
-      "process": "추가 검증 필요",
-      "archive": "추가 검증 필요",
-      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+      "portal": "공식 채용 링크 확인",
+      "degree": "공고별 학력·전공 근거 확보",
+      "language": "공고별 명시/미기재 구분",
+      "process": "채용 절차 확인",
+      "archive": "2025~2026 공고 근거 확보",
+      "reviewed": "2026-10-27 · 공식/공고 보존 자료 대조"
     }
   }
 ]
