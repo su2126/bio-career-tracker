@@ -68,6 +68,7 @@ def main():
     prior={}
     try:prior={x['id']:x for x in json.loads((ROOT/'jobs.json').read_text())['jobs'] if 'id' in x}
     except (OSError,ValueError,KeyError):pass
+    companies=json.loads((ROOT/'companies.json').read_text())
     statuses=[]; gathered=[]
     for company,url,domain in SOURCES:
         try:
@@ -76,13 +77,19 @@ def main():
             gathered+=items
         except Exception as ex:
             statuses.append({'company':company,'url':url,'status':'error','count':0,'note':type(ex).__name__})
+    checked={s['company'] for s in statuses}
+    for c in companies:
+        if c['name'] not in checked:
+            statuses.append({'company':c['name'],'url':c.get('recruit_url') or c.get('url'),'status':'not_configured','count':0,'note':'자동 수집 미지원 · 공식 링크에서 직접 확인 필요'})
     # Preserve previously confirmed items for temporary errors; do not falsely label old data current.
     by_id=dict(prior)
     for x in gathered:
         if x['id'] in prior:x['first_seen']=prior[x['id']].get('first_seen',x['first_seen'])
         by_id[x['id']]=x
     jobs=list(by_id.values());jobs.sort(key=lambda x:x.get('first_seen',''),reverse=True)
-    for x in jobs:x['is_new']=(NOW.date()-dt.date.fromisoformat(x['first_seen'])).days<=2
+    for x in jobs:
+        try:x['is_new']=0 <= (NOW.date()-dt.date.fromisoformat(x['first_seen'])).days <= 2
+        except (ValueError,KeyError):x['is_new']=False
     output={'updated':NOW.strftime('%Y-%m-%d %H:%M KST'),'mode':'official-only','sources':statuses,'jobs':jobs[:200], 'note':'공식 개별 공고 확인된 항목만 표시; 일부 기업은 수집 미지원'}
     (ROOT/'jobs.json').write_text(json.dumps(output,ensure_ascii=False,indent=2)+'\n')
     print('official postings:',len(gathered),'sources:',statuses)

@@ -13,44 +13,72 @@
     "recruit_link_status": "공식 그룹 채용공고 목록 · 관계사 선택",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": true,
-    "evidence_status": "공식/근거 자료 일부 확인",
+    "evidence_status": "2025·2026 신입 공고 보존본에서 전공·어학·전형 확인",
     "qualification": [
       [
-        "전공",
-        "GMP 관련 직무: 생물·화학/화공 관련 전공",
-        "공식 신입 채용 안내"
+        "2026 상반기 공정엔지니어링 전공",
+        "생물·화학/화공 관련 전공",
+        "2026-03-10~03-17 · 신입 공고 보존본"
       ],
       [
-        "어학",
-        "OPIc IM 또는 TOEIC Speaking Lv.6 이상으로 안내됨",
-        "공식 신입 채용 안내 · 개별 공고 우선"
+        "2026 상반기 공정엔지니어링 어학",
+        "OPIc IM 이상 또는 TOEIC Speaking 130점 이상",
+        "2026-03-10~03-17 · 신입 공고 보존본"
       ],
       [
-        "졸업",
-        "2026 하반기 3급 공고: 2027년 2월 이전 졸업(예정)",
-        "2026년 하반기 공고"
+        "2026 상반기 졸업·입사",
+        "2026년 8월 이전 졸업(예정), 2026년 7~8월 입사 가능",
+        "2026-03-10~03-17 · 신입 공고 보존본"
+      ],
+      [
+        "2025 상반기 공정엔지니어링 전공",
+        "생물·화학/화공 관련 전공",
+        "2025-03-10~03-17 · 신입 공고 보존본"
+      ],
+      [
+        "2025 상반기 공정엔지니어링 어학",
+        "OPIc IM 이상 또는 TOEIC Speaking 130점 이상",
+        "2025-03-10~03-17 · 신입 공고 보존본"
       ]
     ],
     "steps": [
-      "지원서",
-      "서류 심사",
-      "GSAT",
+      "지원서 접수",
+      "직무적합성 평가",
+      "직무적성검사(GSAT)",
       "면접",
       "건강검진"
     ],
     "sources": [
       [
-        "공식 신입 지원 안내",
-        "https://samsungbiologics.com/careers/apply/newwhires",
-        "상시 안내"
+        "2026 상반기 공정엔지니어링 신입 공고 보존본",
+        "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=53293839",
+        "2026-03-10~03-17 · 채용 플랫폼 보존본"
       ],
       [
-        "2026 하반기 3급 신입 공고 (마감)",
-        "https://www.samsungcareers.com/hr/?no=23046",
-        "2026-09-08 ~ 09-15"
+        "2025 상반기 공정엔지니어링 신입 공고 보존본",
+        "https://www.saramin.co.kr/zf_user/jobs/view?rec_idx=50196342",
+        "2025-03-10~03-17 · 채용 플랫폼 보존본"
+      ],
+      [
+        "2025 하반기 공정엔지니어링 공고 보존본",
+        "https://pikk.co.kr/job/20911",
+        "2025 하반기 · 제3자 보존본"
+      ],
+      [
+        "삼성바이오로직스 공식 신입 지원 안내",
+        "https://samsungbiologics.com/careers/apply/newwhires",
+        "회사 공식 상시 안내"
       ]
     ],
-    "process_note": "공식 신입 채용 안내 기준. 공고별 예외 가능"
+    "process_note": "공식 신입 채용 안내 기준. 공고별 예외 가능",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
+      "language": "공고별 근거 있음",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "2026-10-27 · 2025/2026 공고 보존본 확인"
+    }
   },
   {
     "name": "셀트리온",
@@ -108,7 +136,15 @@
         "과거 공고 · 공고별 적용"
       ]
     ],
-    "process_note": "셀트리온 공식 채용 프로세스 안내 기준. 공고에 따라 인성검사·면접 구성과 순서가 다를 수 있음"
+    "process_note": "셀트리온 공식 채용 프로세스 안내 기준. 공고에 따라 인성검사·면접 구성과 순서가 다를 수 있음",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
+      "language": "추가 검증 필요",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "SK바이오사이언스",
@@ -140,7 +176,15 @@
         "2025년 공고 식별자 · 2026-10-27 확인"
       ]
     ],
-    "process_note": "SK Careers 공식 공고 R250068에 표시된 절차. 공고 및 직무별 변경 가능"
+    "process_note": "SK Careers 공식 공고 R250068에 표시된 절차. 공고 및 직무별 변경 가능",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "삼성바이오에피스",
@@ -156,11 +200,72 @@
     "recruit_link_status": "공식 그룹 채용공고 목록 · 관계사 선택",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": true,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
-    "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "evidence_status": "2025·2026 신입 공고 재게시본에서 전공·어학 확인",
+    "qualification": [
+      [
+        "2026 하반기 신입 연구개발 전공",
+        "생물·의약학·화학/화공 관련 전공",
+        "2026년 하반기 3급 신입 · 공고 재게시본"
+      ],
+      [
+        "2026 하반기 연구개발 어학",
+        "OPIc IM 이상 또는 TOEIC Speaking 130점 이상",
+        "2026년 하반기 3급 신입 · 공고 재게시본"
+      ],
+      [
+        "2025 하반기 신입 졸업 요건",
+        "2026년 2월 이전 졸업 또는 졸업 예정, 2026년 1~2월 입사 가능",
+        "2025-08-27~09-03 공고 · 마감"
+      ],
+      [
+        "2025 하반기 연구개발 전공",
+        "생물·의약학·화학/화공 관련 전공",
+        "2025년 하반기 3급 신입 · 마감"
+      ],
+      [
+        "2025 하반기 연구개발 어학",
+        "OPIc IM 이상 또는 TOEIC Speaking 130점 이상",
+        "2025년 하반기 3급 신입 · 마감"
+      ]
+    ],
+    "steps": [
+      "지원서 접수",
+      "직무적합성평가",
+      "삼성직무적성검사(GSAT)",
+      "면접",
+      "채용건강검진"
+    ],
+    "sources": [
+      [
+        "2026 하반기 3급 신입 연구개발 공고 재게시본",
+        "https://office.invione.com/jobs/recruitment/open/detail/177744",
+        "2026 하반기 · 채용공고 재게시본 (기업 공식 원문 아님)"
+      ],
+      [
+        "2025 하반기 3급 신입 공고 보존본",
+        "https://lab.incruit.com/jobs/2508270001004",
+        "2025-08-27~09-03 · 채용 플랫폼 보존본"
+      ],
+      [
+        "2025 하반기 채용 공고 보존본 (졸업 조건 포함)",
+        "https://mjob.sarangbang.com/v1/openEmp/detail.html?uid=133674",
+        "2025-08-27~09-03 · 제3자 보존본"
+      ],
+      [
+        "삼성바이오에피스 공식 채용 안내",
+        "https://www.samsungbioepis.com/kr/careers/careers02.do",
+        "회사 공식 상시 안내 · 회차별 공고 우선"
+      ]
+    ],
+    "process_note": "공식 신입 공개채용 기본 절차. 인턴 및 경력 채용 절차는 별도.",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
+      "language": "공고별 근거 있음",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "2026-10-27 · 2025/2026 공고 재게시본 확인, 공식 원문과 교차 확인 권장"
+    }
   },
   {
     "name": "롯데바이오로직스",
@@ -202,7 +307,15 @@
         "2026-10"
       ]
     ],
-    "process_note": "전형 순서 공식 근거 미확인"
+    "process_note": "전형 순서 공식 근거 미확인",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "SK바이오팜",
@@ -222,7 +335,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "대웅제약",
@@ -264,7 +385,15 @@
         "2026-09-07 ~ 09-21 · 계약직"
       ]
     ],
-    "process_note": "공식 신입 기본 프로세스. 인턴십은 채용 형태에 따라 다를 수 있으므로 개별 공고 확인"
+    "process_note": "공식 신입 기본 프로세스. 인턴십은 채용 형태에 따라 다를 수 있으므로 개별 공고 확인",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "한미약품",
@@ -318,7 +447,15 @@
         "2026-10-06"
       ]
     ],
-    "process_note": "2026 하반기 제약영업 외 직무 기준; 직무별 상이"
+    "process_note": "2026 하반기 제약영업 외 직무 기준; 직무별 상이",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
+      "language": "공고별 근거 있음",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "유한양행",
@@ -365,7 +502,15 @@
         "상시 안내 · 2026-10-27 확인"
       ]
     ],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "GC녹십자",
@@ -407,7 +552,15 @@
         "상시 안내 · 2026-10-27 확인"
       ]
     ],
-    "process_note": "GC녹십자 공식 안내. 직무에 따라 PT·외국어 면접 및 평판조회 등이 추가될 수 있음"
+    "process_note": "GC녹십자 공식 안내. 직무에 따라 PT·외국어 면접 및 평판조회 등이 추가될 수 있음",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "종근당",
@@ -445,7 +598,15 @@
         "2026-09-22 ~ 10-11 · 2차 자료"
       ]
     ],
-    "process_note": "종근당홀딩스 공식 그룹 안내 기준. 2026년 개별 공고의 AI역량검사 등은 다를 수 있음"
+    "process_note": "종근당홀딩스 공식 그룹 안내 기준. 2026년 개별 공고의 AI역량검사 등은 다를 수 있음",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "동아ST",
@@ -465,7 +626,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "보령",
@@ -477,15 +646,70 @@
       "품질관리"
     ],
     "url": "https://www.boryung.co.kr/",
-    "recruit_url": null,
-    "recruit_link_status": "공식 채용 목록 직접 주소 미확인",
+    "recruit_url": "https://recruit.boryung.co.kr/",
+    "recruit_link_status": "보령 공식 채용 사이트 · 개별 공고 직행 링크 확인",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
-    "verified_portal": false,
-    "evidence_status": "공식 채용 자격 미검증",
-    "qualification": [],
-    "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "verified_portal": true,
+    "evidence_status": "공식 개별 공고 4건·전형·학력 근거 확인",
+    "qualification": [
+      [
+        "생산품질·고형제팀(타정)",
+        "전문대졸 이상; 제약·화학·바이오·생명 전공자 우대",
+        "2026-10-13~10-30 공고 · 경력 무관"
+      ],
+      [
+        "GMP 컴플라이언스팀",
+        "신입 계약직·경력 정규직 병행 모집",
+        "2026-10-15~11-15 공고 · 세부 학력 원문 확인"
+      ],
+      [
+        "글로벌 RA 경력직",
+        "학사 이상, 경력 3~10년, 영어 능통; 제약 관련 전공 우대",
+        "2026-09-30~10-18 경력 공고 · 신입 요건 아님"
+      ],
+      [
+        "공통 어학 점수",
+        "공식 공통 최소 OPIc/토스 점수 확인되지 않음",
+        "공고별 확인 필요"
+      ]
+    ],
+    "steps": [
+      "서류전형",
+      "실무진 면접",
+      "처우협의",
+      "채용검진 및 입사"
+    ],
+    "sources": [
+      [
+        "2026 예산캠퍼스 고형제팀(타정) 채용",
+        "https://recruit.boryung.co.kr/job_posting/7p3Gkft2",
+        "2026-10-13~10-30 · 경력 무관"
+      ],
+      [
+        "2026 GMP 컴플라이언스팀 채용",
+        "https://recruit.boryung.co.kr/job_posting/o8CB9btd",
+        "2026-10-15~11-15 · 신입 계약직/경력 정규직"
+      ],
+      [
+        "2026 글로벌 RA 경력직",
+        "https://recruit.boryung.co.kr/job_posting/w4G0PSR1",
+        "2026-09-30~10-18 · 경력직"
+      ],
+      [
+        "2026 예산공장 포장 생산직",
+        "https://recruit.boryung.co.kr/job_posting/xULbir13",
+        "2026-10-21~11-22 · 고졸 이상 · 학사 전용 아님"
+      ]
+    ],
+    "process_note": "2026년 예산캠퍼스 생산품질 공고 사례 기준. 본사 경력직은 1·2차 면접 등 별도.",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "공고별 근거 있음",
+      "language": "추가 검증 필요",
+      "process": "공식 전형 근거 있음",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "2026-10-27 · 2026 공고별 조건"
+    }
   },
   {
     "name": "JW중외제약",
@@ -505,7 +729,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "일동제약",
@@ -525,7 +757,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "휴젤",
@@ -545,7 +785,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "LG화학",
@@ -558,14 +806,28 @@
     ],
     "url": "https://careers.lg.com/",
     "recruit_url": "https://careers.lg.com/jobnotice/",
-    "recruit_link_status": "공식 그룹 채용공고 목록 · 계열사 선택",
+    "recruit_link_status": "LG그룹 공식 채용공고 목록 · 회사 필터 필요",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": true,
     "evidence_status": "공식 채용 자격 미검증",
     "qualification": [],
     "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "sources": [
+      [
+        "LG Careers 공식 공고 목록 (개별 회사 필터 필요)",
+        "https://careers.lg.com/jobnotice/",
+        "2026-10-27 공식 채용 사이트 확인 · 개별 공고 조건 아님"
+      ]
+    ],
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "롯데케미칼",
@@ -585,7 +847,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "금호석유화학",
@@ -605,7 +875,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "한화솔루션",
@@ -625,7 +903,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "SKC",
@@ -645,7 +931,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "코오롱인더스트리",
@@ -665,7 +959,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "아모레퍼시픽",
@@ -685,7 +987,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "LG생활건강",
@@ -698,14 +1008,28 @@
     ],
     "url": "https://careers.lg.com/",
     "recruit_url": "https://careers.lg.com/jobnotice/",
-    "recruit_link_status": "공식 그룹 채용 포털 · 계열사 선택 필요",
+    "recruit_link_status": "LG그룹 공식 채용공고 목록 · 회사 필터 필요",
     "source_note": "직무·준비 역량은 전공 기반 참고 정보이며 공식 지원 자격이 아닙니다.",
     "verified_portal": true,
     "evidence_status": "공식 그룹 채용 포털 확인 · 상세 자격 미검증",
     "qualification": [],
     "steps": [],
-    "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "sources": [
+      [
+        "LG Careers 공식 공고 목록 (개별 회사 필터 필요)",
+        "https://careers.lg.com/jobnotice/",
+        "2026-10-27 공식 채용 사이트 확인 · 개별 공고 조건 아님"
+      ]
+    ],
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "코스맥스",
@@ -725,7 +1049,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "한국콜마",
@@ -745,7 +1077,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "CJ제일제당",
@@ -781,7 +1121,15 @@
         "2026-10-19 ~ 11-09 · 경력"
       ]
     ],
-    "process_note": "전형 단계는 개별 공고 확인 필요"
+    "process_note": "전형 단계는 개별 공고 확인 필요",
+    "audit": {
+      "portal": "공식 채용 링크 등록",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "공고/자료 출처 있음",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "대상",
@@ -801,7 +1149,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "삼양사",
@@ -821,7 +1177,15 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   },
   {
     "name": "오뚜기",
@@ -841,6 +1205,14 @@
     "qualification": [],
     "steps": [],
     "sources": [],
-    "process_note": "기업·모집 회차별 절차 검증 전"
+    "process_note": "기업·모집 회차별 절차 검증 전",
+    "audit": {
+      "portal": "직행 링크 미검증",
+      "degree": "추가 검증 필요",
+      "language": "추가 검증 필요",
+      "process": "추가 검증 필요",
+      "archive": "추가 검증 필요",
+      "reviewed": "기존 수집 자료 기준 · 개별 공고 최신성 재확인 필요"
+    }
   }
 ]
