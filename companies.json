@@ -1,0 +1,332 @@
+[
+  {
+    "name": "삼성바이오로직스",
+    "sector": "바이오·제약",
+    "roles": "CDMO 생산·QC·QA",
+    "skills": [
+      "GMP",
+      "바이오공정",
+      "영어"
+    ],
+    "url": "https://www.samsungcareers.com/"
+  },
+  {
+    "name": "셀트리온",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산·분석",
+    "skills": [
+      "GMP",
+      "HPLC",
+      "단백질 분석"
+    ],
+    "url": "https://www.celltrion.com/"
+  },
+  {
+    "name": "SK바이오사이언스",
+    "sector": "바이오·제약",
+    "roles": "백신 생산·QC·QA",
+    "skills": [
+      "GMP",
+      "미생물학",
+      "백신 제조"
+    ],
+    "url": "https://www.skcareers.com/"
+  },
+  {
+    "name": "삼성바이오에피스",
+    "sector": "바이오·제약",
+    "roles": "바이오의약품 개발·품질",
+    "skills": [
+      "생화학",
+      "단백질 분석",
+      "영어"
+    ],
+    "url": "https://www.samsungcareers.com/"
+  },
+  {
+    "name": "롯데바이오로직스",
+    "sector": "바이오·제약",
+    "roles": "CDMO 공정·QC·QA",
+    "skills": [
+      "GMP",
+      "배양·정제",
+      "품질문서"
+    ],
+    "url": "https://www.lottebiologics.com/"
+  },
+  {
+    "name": "SK바이오팜",
+    "sector": "바이오·제약",
+    "roles": "연구지원·개발·품질",
+    "skills": [
+      "분석법",
+      "실험기록",
+      "신약개발"
+    ],
+    "url": "https://www.skcareers.com/"
+  },
+  {
+    "name": "대웅제약",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산",
+    "skills": [
+      "GMP",
+      "HPLC",
+      "분석화학"
+    ],
+    "url": "https://www.daewoong.co.kr/"
+  },
+  {
+    "name": "한미약품",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산·개발",
+    "skills": [
+      "GMP",
+      "품질시험",
+      "분석기기"
+    ],
+    "url": "https://www.hanmi.co.kr/"
+  },
+  {
+    "name": "유한양행",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산·연구지원",
+    "skills": [
+      "GMP",
+      "분석법",
+      "실험기록"
+    ],
+    "url": "https://www.yuhan.co.kr/"
+  },
+  {
+    "name": "GC녹십자",
+    "sector": "바이오·제약",
+    "roles": "백신·혈액제제 생산·품질",
+    "skills": [
+      "GMP",
+      "미생물시험",
+      "바이오의약품"
+    ],
+    "url": "https://www.gccorp.com/"
+  },
+  {
+    "name": "종근당",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산·개발",
+    "skills": [
+      "GMP",
+      "HPLC",
+      "분석화학"
+    ],
+    "url": "https://www.ckdpharm.com/"
+  },
+  {
+    "name": "동아ST",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산·연구지원",
+    "skills": [
+      "GMP",
+      "분석시험",
+      "문서화"
+    ],
+    "url": "https://www.donga-st.com/"
+  },
+  {
+    "name": "보령",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산",
+    "skills": [
+      "GMP",
+      "HPLC",
+      "품질관리"
+    ],
+    "url": "https://www.boryung.co.kr/"
+  },
+  {
+    "name": "JW중외제약",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산·개발",
+    "skills": [
+      "GMP",
+      "기기분석",
+      "의약품 품질"
+    ],
+    "url": "https://www.jw-pharma.co.kr/"
+  },
+  {
+    "name": "일동제약",
+    "sector": "바이오·제약",
+    "roles": "QC·QA·생산",
+    "skills": [
+      "GMP",
+      "분석실험",
+      "문서화"
+    ],
+    "url": "https://www.ildong.com/"
+  },
+  {
+    "name": "휴젤",
+    "sector": "바이오·제약",
+    "roles": "바이오의약품 생산·QC·QA",
+    "skills": [
+      "GMP",
+      "미생물학",
+      "단백질 분석"
+    ],
+    "url": "https://www.hugel.co.kr/"
+  },
+  {
+    "name": "LG화학",
+    "sector": "화학·소재",
+    "roles": "바이오·소재 품질·생산·연구지원",
+    "skills": [
+      "분석화학",
+      "기기분석",
+      "공정 이해"
+    ],
+    "url": "https://careers.lg.com/"
+  },
+  {
+    "name": "롯데케미칼",
+    "sector": "화학·소재",
+    "roles": "품질·생산기술·분석",
+    "skills": [
+      "화학기초",
+      "기기분석",
+      "안전"
+    ],
+    "url": "https://www.lottechem.com/"
+  },
+  {
+    "name": "금호석유화학",
+    "sector": "화학·소재",
+    "roles": "품질·생산·시험분석",
+    "skills": [
+      "분석화학",
+      "고분자 기초",
+      "안전"
+    ],
+    "url": "https://www.kkpc.com/"
+  },
+  {
+    "name": "한화솔루션",
+    "sector": "화학·소재",
+    "roles": "소재 품질·생산·시험",
+    "skills": [
+      "화학기초",
+      "공정 이해",
+      "분석기기"
+    ],
+    "url": "https://www.hanwhasolutions.com/"
+  },
+  {
+    "name": "SKC",
+    "sector": "화학·소재",
+    "roles": "소재 품질·분석·생산",
+    "skills": [
+      "재료·화학 기초",
+      "기기분석",
+      "안전"
+    ],
+    "url": "https://www.skc.kr/"
+  },
+  {
+    "name": "코오롱인더스트리",
+    "sector": "화학·소재",
+    "roles": "소재 시험·품질·생산",
+    "skills": [
+      "고분자 기초",
+      "분석기기",
+      "품질관리"
+    ],
+    "url": "https://www.kolonindustries.com/"
+  },
+  {
+    "name": "아모레퍼시픽",
+    "sector": "화장품·생활",
+    "roles": "화장품 연구지원·품질·생산",
+    "skills": [
+      "미생물학",
+      "화장품 품질",
+      "분석법"
+    ],
+    "url": "https://www.apgroup.com/"
+  },
+  {
+    "name": "LG생활건강",
+    "sector": "화장품·생활",
+    "roles": "품질·생산·연구지원",
+    "skills": [
+      "미생물 시험",
+      "분석화학",
+      "품질관리"
+    ],
+    "url": "https://careers.lg.com/"
+  },
+  {
+    "name": "코스맥스",
+    "sector": "화장품·생활",
+    "roles": "화장품 R&D 지원·QC·QA",
+    "skills": [
+      "제형 기초",
+      "미생물 시험",
+      "분석기기"
+    ],
+    "url": "https://www.cosmax.com/"
+  },
+  {
+    "name": "한국콜마",
+    "sector": "화장품·생활",
+    "roles": "화장품·제약 품질·생산",
+    "skills": [
+      "제형 기초",
+      "GMP",
+      "품질시험"
+    ],
+    "url": "https://www.kolmar.co.kr/"
+  },
+  {
+    "name": "CJ제일제당",
+    "sector": "식품·바이오",
+    "roles": "식품·바이오 품질·생산·연구지원",
+    "skills": [
+      "식품미생물",
+      "발효",
+      "품질관리"
+    ],
+    "url": "https://recruit.cj.net/"
+  },
+  {
+    "name": "대상",
+    "sector": "식품·바이오",
+    "roles": "식품·발효 품질·생산",
+    "skills": [
+      "발효공정",
+      "미생물학",
+      "식품안전"
+    ],
+    "url": "https://www.daesang.com/"
+  },
+  {
+    "name": "삼양사",
+    "sector": "식품·바이오",
+    "roles": "식품·화학 품질·생산",
+    "skills": [
+      "분석화학",
+      "식품 품질",
+      "공정 이해"
+    ],
+    "url": "https://www.samyangcorp.com/"
+  },
+  {
+    "name": "오뚜기",
+    "sector": "식품·바이오",
+    "roles": "식품 품질·생산·시험",
+    "skills": [
+      "식품미생물",
+      "품질시험",
+      "HACCP"
+    ],
+    "url": "https://www.otoki.com/"
+  }
+]
